@@ -1,14 +1,14 @@
 {
-  "name": "one-dark-syntax",
+  "name": "mc-dark-syntax",
   "theme": "syntax",
   "version": "1.1.1",
-  "description": "A dark syntax theme",
+  "description": "A stupid fork of one dark, only changing one of the hues",
   "keywords": [
     "dark",
     "blue",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "https://github.com/musocrat/one-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
