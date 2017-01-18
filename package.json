@@ -8,7 +8,7 @@
     "blue",
     "syntax"
   ],
-  "repository": "https://github.com/musocrat/mc-dark-syntax",
+  "repository": "https://github.com/doesdev/mc-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
