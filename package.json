@@ -1,7 +1,7 @@
 {
   "name": "mc-dark-syntax",
   "theme": "syntax",
-  "version": "1.7.1",
+  "version": "1.8.2",
   "description": "A stupid fork of one dark, only changing one of the hues",
   "keywords": [
     "dark",
